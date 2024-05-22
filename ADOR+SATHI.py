@@ -51,7 +51,7 @@ import math
 import os,base64,zlib,pip,urllib
 def clear():
         os.system('clear')
-print(f'\033[1;91m[\033[1;92m●\033[1;91m]\x1b[38;5;46m WELCOME TO FOYSAL KING TOOL')
+print(f'\033[1;91m[\033[1;92m●\033[1;91m]\x1b[38;5;46m SATHI MY LIFE')
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
